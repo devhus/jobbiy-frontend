@@ -1,5 +1,7 @@
 # jobbiy
 
+A simple Vue Js 3 recruitment application. Includes Auth system, Router guard, Account Management, Company registration, Jobs Listing, Job application, Applications listing, and more...
+
 ## Project setup
 ```
 npm install
